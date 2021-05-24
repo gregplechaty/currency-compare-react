@@ -1,13 +1,6 @@
 project plan
 
 -sort results
--test appearance
--auto-render as values change
--useEffect for initial load
--useEffect for any value changes
-
-
-fix the API timing/multiple rendering problem
--doFecth runs. create bar runs AFTER doFetch with useEffect
+Allow for setting of base currency
 
 
